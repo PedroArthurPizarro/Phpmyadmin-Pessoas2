@@ -1,0 +1,1 @@
+SELECT PessoasID FROM `Pessoas` WHERE '1'; 
